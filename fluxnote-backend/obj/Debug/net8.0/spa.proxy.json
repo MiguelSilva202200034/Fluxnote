@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:4200",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\guesi.DESKTOP-4N7APLK\\OneDrive\\Documents\\pv\\Fluxnote\\fluxnote-backend\\..\\fluxnote-backend",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
